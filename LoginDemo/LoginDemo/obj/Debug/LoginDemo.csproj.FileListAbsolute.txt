@@ -1,0 +1,14 @@
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe.config
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csprojAssemblyReference.cache
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.FormMain.resources
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Sign.resources
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.TeacherInfo.resources
+C:\Users\huanyue9999\Desktop\sql大作业\LoginDemo\LoginDemo\obj\Debug\LoginDemo.ClassInfo.resources
